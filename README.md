@@ -1,2 +1,2 @@
 # Arduino-Project
-Arduino project using mechanical parts.
+Arduino project using electronic components.
